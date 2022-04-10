@@ -1,3 +1,4 @@
+其余数据库信息，见代码的Util类中定义的方式自定义
 1、用户表
 t_user:
 	uid 			主键（用户id）
@@ -35,4 +36,4 @@ t_lossList
 	bid			图书id
 	bookname		书名
 	lossdate		挂失时间
-	isdeal			是否处理
+	isDeal			是否处理
